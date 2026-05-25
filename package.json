@@ -1,0 +1,25 @@
+{
+  "name": "week-7-promises-mvc-rest",
+  "version": "1.0.0",
+  "description": "Repository Link: [https://github.com/Royc4515/week-7-Promises-MVC-REST](https://github.com/Royc4515/week-7-Promises-MVC-REST)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Royc4515/week-7-Promises-MVC-REST.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Royc4515/week-7-Promises-MVC-REST/issues"
+  },
+  "homepage": "https://github.com/Royc4515/week-7-Promises-MVC-REST#readme",
+  "dependencies": {
+    "ejs": "^5.0.2",
+    "express": "^5.2.1"
+  }
+}
